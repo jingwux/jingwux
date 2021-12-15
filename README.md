@@ -31,4 +31,4 @@ Skills: Java / Docker / K8s / DevOps / Node / Vue
 
 ![Profile views](https://gpvc.arturio.dev/jingwux)  
 
-[<img src="https://gitee.com/static/images/logo-black.svg" heigth="40" alt="gitee">](https://gitee.com/jingwua)  
+[<img src="https://gitee.com/static/images/logo-black.svg" height="40" alt="gitee">](https://gitee.com/jingwua)  
